@@ -1,1 +1,1 @@
-*Commands are .txt files
+#Commands are in .docx and .txt files
